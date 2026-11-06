@@ -30,6 +30,15 @@ Wheeling Jesuit '14. Python · SQL · Tableau · Power BI · Streamlit · Gorgia
   order data, pandas analysis pipeline, interactive Streamlit + Plotly
   dashboard (KPIs, revenue trends, return-rate breakdowns).
 
+## Currently
+
+- [RideMetrics](https://github.com/jaredfontaine2002/ridemetrics-analytics) —
+  the advanced data project: SQL/dbt warehouse, cohort/RFM, an A/B test,
+  churn model and forecast for a bike shop.
+- Vlora Cycling Camp — my tour company in Albania, booking season by season.
+- [Bike Shop CX Agent](https://github.com/jaredfontaine2002/bike-shop-cx-agent) —
+  the demo agent above; tuning it and adding handoff summaries.
+
 ## Open to
 
 Remote cycling-industry customer support roles · Gorgias admin/config projects ·
