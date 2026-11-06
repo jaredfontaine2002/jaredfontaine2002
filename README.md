@@ -1,5 +1,7 @@
 # Hi, I'm Jared 👋
 
+I do customer support and analytics for cycling companies. Gorgias Admin + CX certified, Google Data Analytics cert, MBA. I build support agents that don't invent answers and analytics that show where a business is leaking customers.
+
 Cycling-industry customer support pro and data analyst. Two years as a cycling
 expert at **Curated.com** ($500K+ in bike sales), CX work at Planet Cyclery and
 Cambria Bikes, now with Tune Cycles (Australia). **Gorgias Admin + Gorgias CX
